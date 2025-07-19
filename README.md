@@ -1,0 +1,1 @@
+This is a basic calculator made with HTML, CSS, and JavaScript. All buttons are generated using JS, and it handles simple math operations. The result is rounded to 2 decimal places. It was a fun way to practice DOM manipulation and working with dynamic elements.
